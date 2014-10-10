@@ -1,0 +1,7 @@
+---
+applications:
+- name: PHPArchiveGauge-demo
+  memory: 512M
+  instances: 1
+  host: PHPArchiveGauge-${random-word}
+  buildpack: https://github.com/ziniman/Zend-Server-7-0-Bluemix

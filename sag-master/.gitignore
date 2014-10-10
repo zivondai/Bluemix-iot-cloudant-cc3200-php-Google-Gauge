@@ -1,0 +1,8 @@
+*.swp
+/docs
+/tests/coverage
+*.tar.gz
+*.tar.gz.sig
+*.tar.gz.md5
+*.tar.gz.sha
+.project
